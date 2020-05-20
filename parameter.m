@@ -52,5 +52,4 @@ Kp = 0;
 Ki = 0.5;
 
 %% Simulink‹N“® %%
-sim('SSI2Inf_20200518_katoG');
-sim('SSI2Inf_20200518_7F');
+sim('SSI_Simulator');
